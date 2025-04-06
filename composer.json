@@ -1,5 +1,5 @@
 {
-    "name": "vipblogger/laravel-bitrix24",
+    "name": "rodri-go-fr/laravel-bitrix24",
     "description": "This is a wrapper for the Bitrix24 PHP SDK. Allows you to use Bitrix through Dependency Injection.",
     "type": "library",
     "version": "1.0.2",
