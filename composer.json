@@ -18,13 +18,13 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Vipblogger\\LaravelBitrix24\\LaravelBitrix24ServiceProvider"
+                "rodri-go-fr\\LaravelBitrix24\\LaravelBitrix24ServiceProvider"
             ]
         }
     },
     "autoload": {
         "psr-4": {
-            "Vipblogger\\LaravelBitrix24\\": "src"
+            "rodri-go-fr\\LaravelBitrix24\\": "src"
         }
     }
 }
